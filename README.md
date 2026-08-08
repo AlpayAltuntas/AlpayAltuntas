@@ -27,7 +27,7 @@ I’m always open to collaborating on interesting projects—especially in:
 - AI-powered products
 
 ## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/alpay-altuntas-870649236/
+- LinkedIn: https://www.linkedin.com/in/alpay-can-altuntas-870649236/
 
 ## ⚡ Fun Fact
 Debugging sometimes feels like being the investigator and the culprit at the same time.
