@@ -53,10 +53,10 @@ My focus is the part that matters *after* launch: security, performance, and lon
 ## 📌 Featured Projects
 
 ### 🤖 [qwe-code-assistant](https://github.com/AlpayAltuntas/qwe-code-assistant)
-An AI-powered coding assistant — bringing AI/ML into the everyday developer workflow. &nbsp;·&nbsp; _(add a line on what it actually does + tech)_
+An AI-powered coding assistant — bringing AI/ML into the everyday developer workflow. &nbsp;·&nbsp;
 
 ### 🧩 [neetcode-submissions](https://github.com/AlpayAltuntas/neetcode-submissions)
-Worked solutions to the NeetCode / LeetCode roadmap — data-structures & algorithms practice, organized problem by problem. &nbsp;·&nbsp; _(add primary language)_
+Worked solutions to the NeetCode / LeetCode roadmap — data-structures & algorithms practice, organized problem by problem. &nbsp;·&nbsp;
 
 ## 🌱 Currently Exploring
 
@@ -79,7 +79,6 @@ If you're working on something in that space, my inbox and DMs are open.
 ## ⚡ Fun Fact
 
 Debugging sometimes feels like being the investigator and the culprit at the same time.
-
-
-![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpayaltuntas&show_icons=true&hide_border=true&theme=tokyonight)
+ &nbsp;·&nbsp; &nbsp;·&nbsp;
+![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpayaltuntas&show_icons=true&hide_border=true&theme=tokyonight) &nbsp;·&nbsp;
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpayaltuntas&layout=compact&hide_border=true&theme=tokyonight)
