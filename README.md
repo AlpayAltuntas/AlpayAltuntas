@@ -79,6 +79,10 @@ If you're working on something in that space, my inbox and DMs are open.
 ## ⚡ Fun Fact
 
 Debugging sometimes feels like being the investigator and the culprit at the same time.
- &nbsp;·&nbsp; &nbsp;·&nbsp;
-![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpayaltuntas&show_icons=true&hide_border=true&theme=tokyonight) &nbsp;·&nbsp;
+
+
+ 
+![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpayaltuntas&show_icons=true&hide_border=true&theme=tokyonight)
+
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpayaltuntas&layout=compact&hide_border=true&theme=tokyonight)
