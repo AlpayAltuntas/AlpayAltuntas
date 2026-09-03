@@ -63,11 +63,10 @@ My focus is the part that matters *after* launch: security, performance, and lon
 ## 📌 Featured Projects
 
 ### 🤖 [qwe-code-assistant](https://github.com/AlpayAltuntas/qwe-code-assistant)
-An AI-powered coding assistant — bringing AI/ML into the everyday developer workflow. &nbsp;·&nbsp; _(add a line on what it actually does + tech)_
+An AI-powered coding assistant — bringing AI/ML into the everyday developer workflow. 
 
 ### 🧩 [neetcode-submissions](https://github.com/AlpayAltuntas/neetcode-submissions)
-Worked solutions to the NeetCode / LeetCode roadmap — data-structures & algorithms practice, organized problem by problem. &nbsp;·&nbsp; _(add primary language)_
-
+Worked solutions to the NeetCode / LeetCode roadmap — data-structures & algorithms practice, organized problem by problem.
 ## 🌱 Currently Exploring
 
 - Integrating **AI/ML capabilities** into full-stack applications
