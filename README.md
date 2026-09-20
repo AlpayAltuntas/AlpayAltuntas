@@ -62,6 +62,9 @@ My focus is the part that matters *after* launch: security, performance, and lon
 
 ## 📌 Featured Projects
 
+### 🛡️ [chaperone](https://github.com/AlpayAltuntas/chaperone)
+A security scanner ([published on npm](https://www.npmjs.com/package/@alpay_altuntas/chaperone)) that audits self-hosted personal AI agents against 29 checks mapped to the OWASP LLM Top 10 — secrets hygiene, excessive agency, supply chain, prompt injection, and network exposure.
+
 ### 🤖 [qwe-code-assistant](https://github.com/AlpayAltuntas/qwe-code-assistant)
 An AI-powered coding assistant — bringing AI/ML into the everyday developer workflow. 
 
